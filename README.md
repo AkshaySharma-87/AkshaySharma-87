@@ -168,8 +168,8 @@ Open To:
 # 📫 Connect
 
 - GitHub: https://github.com/AkshaySharma-87
-- Email: akshaysharma515253@gmail.com
-- LinkedIn: Add your LinkedIn profile
+- Email: akshay_2024bece087@nitsri.ac.in
+- LinkedIn: https://www.linkedin.com/in/akshay-sharma-947518395?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 

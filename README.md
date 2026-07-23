@@ -133,15 +133,6 @@ Reusable implementation of common data structures from scratch.
 
 ---
 
-# 🐍 Contribution Snake
-
-```text
-Enable this using GitHub Actions:
-Platane/snk
-```
-
----
-
 # 🎯 Current Focus
 
 ```yaml
